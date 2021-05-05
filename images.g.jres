@@ -1,0 +1,17 @@
+{
+    "Ed!?2@xQ$@hcNdd}59u~": {
+        "data": "hwQQABIAAAAAAAAAAAAAAAAAAAAAAADw////DwAAAAAAAADwiIiIDwAAAAD///////////8AAADv7u7+iIiIj/gAAADv/u7+iFWI//8AAADv7u7+WFWFDwAAAADv/u7+WIiFDwAAAADv/u7+WIiFDwAAAADv7u7+WFiFDwAAAADv/u7+iIiI//8AAADv7u7+iIiIj/gAAAD///////////8AAAAAAADwiIiIDwAAAAAAAADw////DwAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player1"
+    },
+    "eZvsZtz]7{kd}B{iy?=]": {
+        "data": "hwQQABIAAAAAAAAAAAAAAAAAAAAAAADw////DwAAAAAAAADwIiIiDwAAAAD///////////8AAADf3d39IiIiL/IAAADf/d39IlUi//8AAADf3d39UlUlDwAAAADf/d39UiIlDwAAAADf/d39UiIlDwAAAADf3d39UlIlDwAAAADf/d39IiIi//8AAADf3d39IiIiL/IAAAD///////////8AAAAAAADwIiIiDwAAAAAAAADw////DwAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
